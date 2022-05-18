@@ -19,5 +19,9 @@ public class PrimeiroProjeto {
 class Livro {
 	private String nome;
 	private String paginas;
+	
+	private void Sysou("Hello again.") {
+
+	}
 
 }
